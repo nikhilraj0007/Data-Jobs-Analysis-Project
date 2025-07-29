@@ -69,7 +69,7 @@ The Excel dashboard offers a high-level overview of:
 - Pivot tables for skill vs. salary  
 - Slicers for filtering by company or remote type  
 
-📂 Full Excel File can be found in [Excel File](./Excel%20Salary%20Dashboard/)
+> 📂 Full Excel File can be found in [Excel File](./Excel%20Salary%20Dashboard/)
 
 📷 **Preview:**
 
@@ -89,7 +89,7 @@ A full multi-page report covering:
 - Drill-through and bookmarks  
 - Map-based visualizations
 
-📂 Full Power BI File can be found in [Powe BI Project](./Power%20BI%20Dashboard/)
+> 📂 Full Power BI File can be found in [Powe BI File](./Power%20BI%20Dashboard/)
 
 📷 **Preview:**
 
@@ -106,7 +106,7 @@ A one-page optimized report with enhanced features:
 - Toggle between metrics using field parameters  
 - Dynamic, clean UX layout
 
-📂 Full Power BI File can be found in [Power BI File](./Power%20BI%20Dashboard/)
+> 📂 Full Power BI File can be found in [Power BI File](./Power%20BI%20Dashboard/)
 
 📷 **Preview:**
 
