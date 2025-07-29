@@ -56,7 +56,7 @@ Includes 5 key queries:
 4. Top Paying Skills  
 5. Most Optimal Skills
 
-> 📂 Full SQL queries can be found in `/SQL_Analysis/`
+> 📂 Full SQL queries can be found in ![SQL Files](/SQL%20Analysis/)
 
 ---
 
